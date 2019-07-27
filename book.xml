@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="1">
+	  <title>Java Webservice Up And Running</title>
+	  <author>Bill Burk</author>
+	  <ISBN>0123456789</ISBN>
+    </book>
+    <book id="2">
+   	  <title>SCJP6</title>
+	  <author>Kaithy Sierra and Bert Bates</author>
+	  <ISBN>9876543210</ISBN>
+    </book>
+</books>
